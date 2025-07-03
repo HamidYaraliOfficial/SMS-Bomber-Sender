@@ -17,8 +17,6 @@ Python: Version 3.8 or higher PyQt6: For the graphical interface requests: For H
 
 Steps
 
-Clone the Repository: git clone https://github.com/yourusername/sms-sender.git cd sms-sender
-
 Create a Virtual Environment (recommended): python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
 
 Install Dependencies: pip install pyqt6 requests qdarkstyle
@@ -63,7 +61,6 @@ SMS Sender - رابط کاربری حرفه‌ای با PyQt6
 
 مراحل
 
-کلون کردن مخزن: git clone https://github.com/yourusername/sms-sender.git cd sms-sender
 
 ایجاد محیط مجازی (توصیه می‌شود): python -m venv venv source venv/bin/activate # در ویندوز: venv\Scripts\activate
 
@@ -106,8 +103,6 @@ SMS Sender - 使用 PyQt6 的专业界面
 Python: 版本 3.8 或更高 PyQt6: 用于图形界面 requests: 用于 HTTP 请求 qdarkstyle: 用于暗黑主题 操作系统: Windows、macOS 或 Linux
 
 步骤
-
-克隆仓库: git clone https://github.com/yourusername/sms-sender.git cd sms-sender
 
 创建虚拟环境 (推荐): python -m venv venv source venv/bin/activate # 在 Windows 上: venv\Scripts\activate
 
